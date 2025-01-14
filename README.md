@@ -1,6 +1,6 @@
 ## Live version
 
-Available at GitHub pages: <https://tyurina-yuliya.github.io/burgers/> 
+Available at GitHub pages: <https://tyurina-yuliya.github.io/Burgers/> 
 
 ## Used technologies
 
